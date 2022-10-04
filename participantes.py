@@ -1,1 +1,1 @@
-print ("Monitores: Fred e Debora")
+print ("Monitores: Debora e Fred")
