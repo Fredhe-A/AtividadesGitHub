@@ -1,2 +1,1 @@
-print ("Monitores: Debora e Fred"),
-print ("Aluno: Kelvin"),s
+print ("Monitores: Debora e Fred")
